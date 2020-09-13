@@ -1,4 +1,6 @@
 # IS-FID-Scores
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/itsreddy/IS-FID-Scores/blob/master/is-fid-scores.ipynb)
+
 Code to calculate IS and FID scores of GAN generated outputs
 
 This repo is a wrapper around the pyTorch implementation of the FID score calculation code from https://github.com/leognha/PyTorch-FID-score to suit my own project needs. 
