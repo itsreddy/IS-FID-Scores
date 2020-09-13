@@ -1,5 +1,5 @@
 # IS-FID-Scores
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.com/github.com/itsreddy/IS-FID-Scores/blob/master/is-fid-scores.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/itsreddy/IS-FID-Scores/blob/master/is-fid-scores.ipynb)
 
 Code to calculate IS and FID scores of GAN generated outputs
 
